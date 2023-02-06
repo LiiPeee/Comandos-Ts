@@ -6,6 +6,7 @@ Comandos que eu vou modifcar
 Sample commands to init a NodeJS TypeScript project
 
 ## Dependencies
+```
 
 ```
 yarn add typescript ts-node ts-node-dev @types/node --dev
