@@ -1,11 +1,17 @@
 # TypeScript With ts-node-dev
 
 ```
-Comandos que eu vou modifcar
 
 Sample commands to init a NodeJS TypeScript project
 
 ## Dependencies
+```
+
+```
+npm install --save @types/express
+```
+```
+npm i mongoose
 ```
 
 ```
@@ -14,6 +20,11 @@ yarn add typescript ts-node ts-node-dev @types/node --dev
 OR
 ```
 npm i typescript ts-node ts-node-dev @types/node --save-dev
+```
+## Angular
+
+```
+ng new {nome do projeto em Angular}
 ```
 
 ## tsconfig.json
